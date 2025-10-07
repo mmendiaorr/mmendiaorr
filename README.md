@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nire Lehen Web Orria</title>
+</head>
+<body>
+    <h1>Kaixo, Mikel naiz!</h1>
+    <p>Orotz-Betelukoa naiz eta 15 urte ditut</p>
+    <a href="https://cdn.ferrari.com/cms/network/media/img/resize/5de7923a91756c07f10b1720-ferrari-f40-1987-intro-share?width=1080" target="_blank">Ferrari F40</a>
+    <h2>Nire irudia</h2>
+    <img src="https://cdn.ferrari.com/cms/network/media/img/resize/5de7923a91756c07f10b1720-ferrari-f40-1987-intro-share?width=1080" alt="Adibideko irudi bat">
+    <button type="button"> klikatu nazazu! </button>
+</body>
+</html>
 
